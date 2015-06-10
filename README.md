@@ -32,6 +32,7 @@ Installation on Ubuntu 14.04:
  $ mkdir ~/Audio2
 
 Place your unrecognized audio files into Audio directory.
+Edit the script adding the API key. Be sure you have requested 1 song/second throughput at mooma.sh.
 
 Run the script:
 
